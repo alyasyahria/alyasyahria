@@ -6,7 +6,7 @@ Halo! Saya Alya Syahria, seorang siswi jurusan Rekayasa Perangkat Lunak (RPL). S
 
 ## 🌟 Fun Facts
 - 💻 Suka coding sambil ditemani musik lo-fi atau chill vibes.
-- 📚 Sedang belajar: Laravel, Fundamental Java
+- 📚 Sedang belajar: Laravel, Pemrograman Web
 - 🎮 Hobi lainnya: Bermain game, membaca buku, dan mengeksplorasi teknologi baru.
 
 ### 🤝 Let's Connect!
