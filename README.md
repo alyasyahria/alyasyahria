@@ -2,7 +2,7 @@
 Halo! Saya Alya Syahria, seorang siswi jurusan Rekayasa Perangkat Lunak (RPL). Saya memiliki ketertarikan besar pada dunia teknologi, pemrograman, dan pengembangan perangkat lunak. Saat ini, saya sedang mempelajari berbagai teknologi baru untuk meningkatkan keterampilan saya.
 
 - 🎓 Jurusan: Rekayasa Perangkat Lunak (RPL)
-- 🏫 **Sekolah: SMK NEGERI 4 BOJONEGORO
+- 🏫 Sekolah: SMK NEGERI 4 BOJONEGORO
 
 ## 🌟 Fun Facts
 - 💻 Suka coding sambil ditemani musik lo-fi atau chill vibes.
