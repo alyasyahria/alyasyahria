@@ -11,7 +11,6 @@ Halo! Saya Alya Syahria, seorang siswi jurusan Rekayasa Perangkat Lunak (RPL). S
 
 ### 🤝 Let's Connect!
 Jika Anda ingin berdiskusi tentang proyek, teknologi, atau sekadar berteman, jangan ragu untuk menghubungi saya:
-- 📱 WhatsApp: 089521363925
 - 📧 Email: alyasyahria37@gmail.com
 - 📸 Instagram: userr13097
 
