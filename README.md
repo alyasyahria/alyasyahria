@@ -1,42 +1,42 @@
-<h1 align="center">🌸 Alya Syahria Ramadhani Ikhsan</h1>
-<p align="center"><strong>Rekayasa Perangkat Lunak</strong></p>
+# 👋 Hello, I'm ALYA SYAHRIA RAMADHANI!  
 
----
+<div align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=Software+Engineering+Student;Laravel+Developer;UI/UX+Enthusiast" alt="Typing Animation" />  
+</div>  
 
-## 📌 Tentang Saya
+### **🚀 About Me**  
+<p align="center">  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />  
+</p>  
 
-Halo! Aku **Alya Syahria**, seorang siswi jurusan **Rekayasa Perangkat Lunak (RPL)** dari  
-🏫 **SMK Negeri 4 Bojonegoro**.
+- 🎓 Studying **Software Engineering (RPL - Rekayasa Perangkat Lunak)**  
+- 🔭 Currently working on **Laravel Projects**  
+- 🌱 Learning **Advanced PHP, JavaScript Frameworks, and UI/UX Design**  
+- 💬 Ask me about **Web Development, Databases, or Digital Marketing**  
+- ⚡ Fun fact: **I enjoy turning complex problems into simple solutions**  
 
-Aku memiliki ketertarikan besar pada dunia **teknologi, pemrograman**, dan **pengembangan perangkat lunak**. Saat ini aku sedang aktif belajar berbagai teknologi untuk meningkatkan skill-ku!
+### **🛠️ Tech Stack**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
----
+### **🎨 Design & Marketing**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white)  
+![Digital Marketing](https://img.shields.io/badge/-Digital_Marketing-4285F4?logo=google-ads&logoColor=white)  
 
-## 🌟 Fun Facts
+### **📊 GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALYASYAHRIARAMADHANI&show_icons=true&theme=radical)  
 
-- 💻 Suka ngoding sambil dengerin musik lo-fi atau chill vibes  
-- 📚 Sedang belajar: `Laravel`, `Web Development`  
-- 🎮 Hobi lainnya: main game 🎮, baca buku 📚, dan eksplor teknologi baru  
+### **📫 Reach Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
----
-
-## 💡 Tech Stack yang Sedang Dipelajari
-
-![HTML](https://img.shields.io/badge/HTML-F06529?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
----
-
-## 🤝 Let's Connect!
-
-📧 **Email:** [alyasyahria37@gmail.com](mailto:alyasyahria37@gmail.com)  
-📸 **Instagram:** [@userr13097](https://instagram.com/userr13097)
-
-
+---  
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ALYASYAHRIARAMADHANI&label=Profile%20Views&color=blueviolet" alt="Profile Views" />  
+</p>  
