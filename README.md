@@ -1,7 +1,7 @@
 # 👋 Hello, I'm ALYA SYAHRIA RAMADHANI
 
 <div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=Software+Engineering+Student;Laravel+Developer;UI/UX+Designer" alt="Typing Animation" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=Software+Engineering+Student;UI/UX+Designer" alt="Typing Animation" />  
 </div>  
 
 ### **🚀 About Me**  
