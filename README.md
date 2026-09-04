@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hello, I'm Alya Syahria Ramadhani
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=F24E1E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Fullstack+Web+Developer;UI/UX+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=F24E1E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;UI/UX+Enthusiast" alt="Typing Animation" />
 </div>
 
 ---
